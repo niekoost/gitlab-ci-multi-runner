@@ -105,6 +105,7 @@ Supported systems by different shells:
 * [Help me select executor](docs/executors/README.md#imnotsure)
 * [Shell](docs/executors/shell.md)
 * [Docker and Docker-SSH](docs/executors/docker.md)
+* [Kubernetes](docs/executors/kubernetes.md)
 * [Parallels](docs/executors/parallels.md)
 * [VirtualBox](docs/executors/virtualbox.md)
 * [SSH](docs/executors/ssh.md)
